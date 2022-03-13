@@ -162,7 +162,7 @@ class App extends Component {
                 noWrap
                 component="div"
                 sx={{ flexGrow: 1, display: { xs: 'none', sm: 'block' } }}>
-                고객 관리 시스템
+                고객 관리 시스템!
               </Typography>
               <Search>
                 <SearchIconWrapper>
